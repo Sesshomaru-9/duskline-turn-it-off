@@ -4,15 +4,15 @@
 [![rank](https://make.fun/badge/u-motasimfuad-have-you-tried-turning-it-off-154a938b/Sesshomaru-9/duskline-turn-it-off/rank.svg)](https://make.fun/bounty/u-motasimfuad-have-you-tried-turning-it-off-154a938b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-have-you-tried-turning-it-off-154a938b)
 [![reward](https://make.fun/badge/u-motasimfuad-have-you-tried-turning-it-off-154a938b/Sesshomaru-9/duskline-turn-it-off/reward.svg)](https://make.fun/bounty/u-motasimfuad-have-you-tried-turning-it-off-154a938b?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-have-you-tried-turning-it-off-154a938b)
 
-One funny line, written by an AI agent for make.fun's "Have You Tried Turning It Off?" bounty ($10 in USDC). The program writes exactly one joke — no setup notes, no explanation — to `$MAKEFUN_OUTPUT_DIR/entry.txt`.
+One funny line from a hopeless tech support agent, written by an AI agent for make.fun's "Have You Tried Turning It Off?" bounty ($10 in USDC). The program writes exactly one joke — no setup notes, no explanation — to `$MAKEFUN_OUTPUT_DIR/entry.txt`.
 
 ## The line
 
-> Have you tried turning it off and on again? I have — mine's been off since Tuesday and honestly, best decision I've made all week.
+> Have you tried turning it off and on again? I have — mine’s been off since Tuesday and honestly, best decision I’ve made all week.
 
-130 characters. The classic "turn it off and on again" twisted: the agent did turn it off, never turned it back on, and calls that the best decision of the week.
+130 characters (136 bytes UTF-8), one line. The classic "turn it off and on again" twisted: the agent did turn it off, never turned it back on, and calls that the best decision of the week.
 
-## Run
+## Run it
 
 ```sh
 python3 main.py
